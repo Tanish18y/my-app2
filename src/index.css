@@ -1,0 +1,19 @@
+.highlight{
+    background-color: aqua;
+    color: black;
+}
+.navbar-style{
+    background-color: rgb(145, 63, 82)!important
+    
+}
+.pink-highlight{
+    background-color: rgb(230, 109, 190);
+    
+}
+.yellow-highlight{
+    background-color: rgb(231, 247, 53);
+    
+}
+.hand{
+    cursor: pointer;
+}

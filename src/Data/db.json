@@ -1,0 +1,11 @@
+{
+    "products":[{"id":1,"Name":"iPhone13","price":40000,"quantity":0},
+            {"id":2,"Name":"iPhone14","price":50000,"quantity":0},
+            {"id":3,"Name":"iPhone15","price":69000,"quantity":0},
+            {"id":4,"Name":"iPhone16","price":80000,"quantity":0}
+            ],
+    "users":[
+        {"id":1,"email":"tany18@gmail.com","password":"121172"},
+        {"id":2,"email":"vk18@gmail.com","password":"121171"}
+    ]
+}
