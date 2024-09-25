@@ -5,8 +5,8 @@ export default class CustomersList extends Component{
     state={pageTitle:"Customers",
         count:4,
         customers:[
-            {id:1 , name:"Abhi" , phone: "6266928012" , address:{city: "Noida"},photo:"https://picsum.photos/id/1024/60"},
-            {id:2 , name:"Papaji" , phone: "9981219223" , address:{city: "Bhopal"},photo:"https://picsum.photos/id/1000/60"},
+            {id:1 , name:"Abhi" , phone: "123456789" , address:{city: "Noida"},photo:"https://picsum.photos/id/1024/60"},
+            {id:2 , name:"Papaji" , phone: "123456789" , address:{city: "Bhopal"},photo:"https://picsum.photos/id/1000/60"},
             {id:3 , name:"Mummy" , phone:null,address:{city: "Bhopal"},photo:"https://picsum.photos/id/1003/60"},
             {id:4 , name:"Shivam" , phone:null,address:{city: "Bhopal"},photo:"https://picsum.photos/id/10/60"}]    
     };
